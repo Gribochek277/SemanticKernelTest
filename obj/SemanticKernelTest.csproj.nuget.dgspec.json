@@ -1,0 +1,97 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/serhii/Documents/SemanticKernelTest/SemanticKernelTest/SemanticKernelTest.csproj": {}
+  },
+  "projects": {
+    "/home/serhii/Documents/SemanticKernelTest/SemanticKernelTest/SemanticKernelTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/serhii/Documents/SemanticKernelTest/SemanticKernelTest/SemanticKernelTest.csproj",
+        "projectName": "SemanticKernelTest",
+        "projectPath": "/home/serhii/Documents/SemanticKernelTest/SemanticKernelTest/SemanticKernelTest.csproj",
+        "packagesPath": "/home/serhii/.nuget/packages/",
+        "outputPath": "/home/serhii/Documents/SemanticKernelTest/SemanticKernelTest/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/serhii/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[9.0.0-rc.2.24473.5, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0-rc.2.24473.5, )"
+            },
+            "Microsoft.KernelMemory.Abstractions": {
+              "target": "Package",
+              "version": "[0.80.241017.2, )"
+            },
+            "Microsoft.KernelMemory.Core": {
+              "target": "Package",
+              "version": "[0.80.241017.2, )"
+            },
+            "Microsoft.SemanticKernel": {
+              "target": "Package",
+              "version": "[1.24.0, )"
+            },
+            "Microsoft.SemanticKernel.Connectors.Ollama": {
+              "target": "Package",
+              "version": "[1.24.0-alpha, )"
+            },
+            "Microsoft.SemanticKernel.Plugins.Memory": {
+              "target": "Package",
+              "version": "[1.24.0-alpha, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.8, 8.0.8]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.108/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
