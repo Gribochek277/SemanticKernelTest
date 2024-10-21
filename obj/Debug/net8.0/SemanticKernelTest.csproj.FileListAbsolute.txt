@@ -171,3 +171,4 @@
 /home/serhii/Documents/SemanticKernelTest/SemanticKernelTest/obj/Debug/net8.0/ref/SemanticKernelTest.dll
 /home/serhii/Documents/SemanticKernelTest/SemanticKernelTest/obj/Debug/net8.0/SemanticKernelTest.csproj.CopyComplete
 /home/serhii/Documents/SemanticKernelTest/SemanticKernelTest/bin/Debug/net8.0/appsettings.json
+/home/serhii/Documents/SemanticKernelTest/SemanticKernelTest/obj/Debug/net8.0/SemanticKernelTest.sourcelink.json
